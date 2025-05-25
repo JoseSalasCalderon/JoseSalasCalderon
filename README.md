@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7F7&size=22&center=true&vCenter=true&width=600&height=60&lines=Desarrollador+de+Software;Amante+del+frontend+y+backend;Estudiante+de+Informática+Empresarial;Siempre+aprendiendo+y+mejorando" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7F7&size=22&center=true&vCenter=true&width=600&height=60&lines=Desarrollador+de+Software;Amante+de+la+tecnología;Estudiante+de+Informática+Empresarial;Siempre+aprendiendo+y+mejorando" />
   </a>
 </p>
 
@@ -61,16 +61,6 @@ _Bachillerato en Informática Empresarial_ (2020 – 2025)
 
 - Scrum Fundamentals Certified (SCRUMstudy) – Octubre 2023 [Ver aquí](https://www.scrumstudy.com/certification/verify?type=SFC&number=1001921)
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseSalasCalderon&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseSalasCalderon&layout=compact&theme=tokyonight" width="375"/>
-</div>
-
----
-
 ## 🤝 Contáctame
 
 <div align="left">
@@ -78,4 +68,15 @@ _Bachillerato en Informática Empresarial_ (2020 – 2025)
 - 💼 [LinkedIn](www.linkedin.com/in/josé-salas-calderón-8161b8367)
 - 📧 [Correo electrónico](joseant2302@gmail.com)
 
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseSalasCalderon&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" width="450"/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseSalasCalderon&layout=compact&theme=tokyonight" width="375"/>
 </div>
