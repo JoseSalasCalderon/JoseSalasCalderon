@@ -1,20 +1,20 @@
-<h1 align="center"><b>¡Hola, soy José Salas Calderón!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm José Salas Calderón!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7F7&size=22&center=true&vCenter=true&width=600&height=60&lines=Desarrollador+de+Software;Amante+de+la+tecnología;Estudiante+de+Informática+Empresarial;Siempre+aprendiendo+y+mejorando" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7F7&size=22&center=true&vCenter=true&width=600&height=60&lines=Software+Developer;Technology+Enthusiast;Business+IT+Student;Always+learning+and+growing" />
   </a>
 </p>
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
 <p align="justify">
-Soy desarrollador de software con formación académica en diseño y desarrollo de aplicaciones web tanto del lado del cliente como del servidor. Me especializo en tecnologías como JavaScript, Angular, React, y .NET. Destaco por mi capacidad de adaptación, pensamiento analítico, liderazgo, y colaboración en equipo. Apasionado por crear soluciones eficientes, escalables y de alto impacto. Actualmente, continúo mis estudios universitarios y busco seguir creciendo profesionalmente.
+I am a software developer with academic training in designing and building web applications, both client- and server-side. I specialize in technologies such as JavaScript, Angular, React, and .NET. I am known for my adaptability, analytical thinking, leadership, and strong teamwork skills. Passionate about creating efficient, scalable, and high-impact solutions. I am currently pursuing my university studies and looking to continue growing professionally.
 </p>
 
 <br>
 
-## 🧠 Tecnologías
+## 🧠 Technologies
 
 ### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=1E1E1E)
@@ -33,13 +33,13 @@ Soy desarrollador de software con formación académica en diseño y desarrollo 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white&labelColor=1E1E1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white&labelColor=1E1E1E)
 
-### 🛢️ Bases de Datos
+### 🛢️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white&labelColor=1E1E1E)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=1E1E1E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=1E1E1E)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=.net&logoColor=white&labelColor=1E1E1E)
 
-### 🛠️ Herramientas
+### 🛠️ Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=1E1E1E)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white&labelColor=1E1E1E)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=1E1E1E)
@@ -47,26 +47,25 @@ Soy desarrollador de software con formación académica en diseño y desarrollo 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&labelColor=1E1E1E)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white&labelColor=1E1E1E)
 
-### 📋 Metodologías
+### 📋 Methodologies
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=flat&logo=scrumalliance&logoColor=white&labelColor=1E1E1E)
 ![RUP](https://img.shields.io/badge/RUP-003366?style=flat&logo=data&logoColor=white&labelColor=1E1E1E)
 
-## 🎓 Estudios
+## 🎓 Education
 
-🎓 **Universidad de Costa Rica**  
-_Bachillerato en Informática Empresarial_ (2020 – 2025)
+🎓 **University of Costa Rica**  
+_Bachelor’s in Business Informatics_ (2020 – 2025)
 
+## 📜 Certifications
 
-## 📜 Certificaciones
+- Scrum Fundamentals Certified (SCRUMstudy) – October 2023 [View here](https://www.scrumstudy.com/certification/verify?type=SFC&number=1001921)
 
-- Scrum Fundamentals Certified (SCRUMstudy) – Octubre 2023 [Ver aquí](https://www.scrumstudy.com/certification/verify?type=SFC&number=1001921)
-
-## 🤝 Contáctame
+## 🤝 Contact Me
 
 <div align="left">
 
-- 💼 [LinkedIn](www.linkedin.com/in/josé-salas-calderón-8161b8367)
-- 📧 [Correo electrónico](joseant2302@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/josé-salas-calderón-8161b8367)
+- 📧 [Email](mailto:joseant2302@gmail.com)
 
 </div>
 
